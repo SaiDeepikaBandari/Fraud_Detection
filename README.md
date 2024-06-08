@@ -1,4 +1,4 @@
-# Traverlers Insurance Claim Fraud Detection
+# Travelers Insurance Claim Fraud Detection
 
 This project was part of a modelling competition- 2023 NESS Statathon.
 
