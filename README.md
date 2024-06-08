@@ -59,3 +59,5 @@ Variable Descriptions
 - vehicle_weight - Weight of first party vehicle
 
 - fraud - Fraud indicator (0=no, 1=yes). This is the response variable.
+
+## Data Cleaning ,EDA and Feature Engineering
