@@ -10,7 +10,7 @@ Task is to identify first-party physical damage fraudulence and explain the indi
 Data Overview:
 Variable Descriptions
 
-claim_number - Claim ID (cannot be used in model)
+- claim_number - Claim ID (cannot be used in model)
 age_of_driver - Age of driver
 gender - Gender of driver
 marital_status - Marital status of driver
