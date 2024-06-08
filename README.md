@@ -45,6 +45,11 @@ Variable Descriptions
 - Changed claim_date to a datetime variable  as it is a categorical variable to create more features
 - Performed OneHotEncoding to Catrgorical data and Scaled Numerical Data
 - Utilized SMOTE to handle class imbalance issues in the dataset
+
+# Modeling
+
+- Deployed Gradient Boosting to identify and flag fraudulent transactions in real-time, effectively minimizing false positives and false negatives, and significantly improving the reliability of real-time fraud identification processes and attained an F1 score of 0.91 through hyperparameter tuning.
+
   
 
 
