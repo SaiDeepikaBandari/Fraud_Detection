@@ -36,14 +36,14 @@ Variable Descriptions
 - vehicle_weight - Weight of first party vehicle
 - fraud - Fraud indicator (0=no, 1=yes). This is the response variable.
 
-# Data Cleaning ,EDA and Feature Engineering
+# Data Cleaning , EDA and Feature Engineering
  
- Performed Data Cleaning ,Exploratory Data Analysis and Feature Engineering to the data
+ Performed Data Cleaning, Exploratory Data Analysis and Feature Engineering to the data
  
 - Mean/mode imputation for missing values
-- Remove features that are clearly not useful e.g., vehicle_color,vehicle_weight
+- Remove features that are clearly not useful e.g., vehicle_color, vehicle_weight
 - Changed claim_date to a datetime variable  as it is a categorical variable to create more features
-- Performed OneHotEncoding to Catrgorical data and Scaled Numerical Data
+- Performed OneHotEncoding to Categorical data and Scaled Numerical Data
 - Utilized SMOTE to handle class imbalance issues in the dataset
 
 # Modeling
